@@ -1,0 +1,1 @@
+This is my first project in the ODIN Project. I am excited. I hope to have a better understanding of how GitHub works. This will be my first time using that database, outside of downloading someone else's word. 
